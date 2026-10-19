@@ -1,2 +1,2 @@
-print("Python")
+print("Python lose")
 print("hello")
